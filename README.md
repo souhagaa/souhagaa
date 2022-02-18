@@ -3,11 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souhagaa" alt="souhagaa" /></a> </p>
 
-- 🔭 I’m currently working on [Contact Keeper](https://github.com/souhagaa/contactKeeper)
-
-- 🌱 I’m currently learning **Redux**
-
-- 📝 I regularly write articles on [https://medium.com/@souha.echelon20](https://medium.com/@souha.echelon20)
+- 📝 I write articles on [https://medium.com/@souha.echelon20](https://medium.com/@souha.echelon20)
 
 - 📫 How to reach me **souha.gaaloul@gmail.com**
 
